@@ -27,6 +27,6 @@
 
 
 # [Код](https://github.com/Daria123H/Zbir_d/blob/b9905eb8f4c2c6df5da8879a639624968fe472d6/PR2.py)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/b9905eb8f4c2c6df5da8879a639624968fe472d6/{05AAD617-4348-47FB-8FA8-35FD099EE867}.png)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/b9905eb8f4c2c6df5da8879a639624968fe472d6/{2717AECC-7779-4B60-8517-716C6DEB87E1}.png)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/c2a273af9b87943a64ebd6e87b2b675a0f4724aa/%7B05AAD617-4348-47FB-8FA8-35FD099EE867%7D.png)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/0c7f26859d01beb2db8a82d15ff1ec21001832b6/%7B2717AECC-7779-4B60-8517-716C6DEB87E1%7D.png)
 
