@@ -24,8 +24,8 @@ NumPy — застосовується для роботи з масивами �
 У результаті програма відображає вікно з виділеними контурами зображення.
 
 # [Код](https://github.com/Daria123H/Zbir_d/blob/b9905eb8f4c2c6df5da8879a639624968fe472d6/PR5/PR5.py)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/4bd99d219c81e0109fc39dda5347da55edd38a9b/PR5/Sunflower_from_Silesia2.jpg)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/4bd99d219c81e0109fc39dda5347da55edd38a9b/PR5/{EABD19F1-5FDF-4245-AD86-A141048B1F31}.png)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/76f55ba9baee9b029eb9d2b9ebfa296492a74e29/PR5/Sunflower_from_Silesia2.jpg)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/76f55ba9baee9b029eb9d2b9ebfa296492a74e29/PR5/%7BEABD19F1-5FDF-4245-AD86-A141048B1F31%7D.png)
 
 
 
