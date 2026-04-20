@@ -79,7 +79,7 @@ SQL (SQLite) — збереження у реляційній базі дани�
 Графік дозволяє наочно оцінити продуктивність кожного формату.
 
 # [Код](https://github.com/Daria123H/Zbir_d/blob/b9905eb8f4c2c6df5da8879a639624968fe472d6/PR4.py)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/c2a273af9b87943a64ebd6e87b2b675a0f4724aa/PR4/PR4_1.png)
-# ![Результат](https://github.com/Daria123H/Zbir_d/blob/0c7f26859d01beb2db8a82d15ff1ec21001832b6/PR4/PR4_22.png)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/4bd99d219c81e0109fc39dda5347da55edd38a9b/PR4/PR4_1.png)
+# ![Результат](https://github.com/Daria123H/Zbir_d/blob/4bd99d219c81e0109fc39dda5347da55edd38a9b/PR4/PR4_22.png)
 
 
